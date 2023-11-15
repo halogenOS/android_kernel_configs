@@ -195,6 +195,10 @@
 		<key>CONFIG_EXT4_FS_POSIX_ACL</key>
 		<value type="bool">y</value>
 	</config>
+	<config>
+		<key>CONFIG_EXT4_FS_SECURITY</key>
+		<value type="bool">y</value>
+	</config>
 </group>
 
 <!-- F2FS requirements -->
